@@ -1,3 +1,5 @@
+Contributers : https://github.com/ibtisam-tanveer 
+
 Trustworthy AI in Healthcare
 🚀 Project Overview
 This project demonstrates the principles of Trustworthy AI in the context of healthcare, focusing on skin cancer detection models. The goal is to evaluate and present the differences in model performance, fairness, and bias across different datasets. It aims to create a robust AI system that predicts melanoma from images of skin lesions while ensuring fairness, transparency, and bias mitigation.
